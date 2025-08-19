@@ -162,6 +162,7 @@ jobs:
 
       - name: Run notebook files
         run: |
+          git rev-parse HEAD
           python -c "
           import os
           import nbformat
