@@ -2,6 +2,6 @@
 
 *Due: Wednesday, September 24th, 2025.*
 
-This workshop assignment revolves around analyzing data and fitting distributions. You will choose between one of two datasets: the compressive strength of concrete, or air temperatures near Delft. In this workshop, you will analyze and plot the dataset, then fit a distribution by hand, and visually analyze the fit of your chosen distribution.
+This workshop assignment revolves around analyzing data and fitting distributions in the notebook [Fit Happens.ipynb](./Fit_happens.ipynb). You will choose between one of two datasets: the compressive strength of concrete, or air temperatures near Delft. In this workshop, you will analyze and plot the dataset, then fit a distribution by hand, and visually analyze the fit of your chosen distribution.
 
 > By Max Ramgraber, Patricia Mares Nasarre and Robert Lanzafame, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
